@@ -1,16 +1,21 @@
-### Hi there 👋
+**Olá! Eu sou o Diego! :)**
 
-<!--
-**hidiegoz/hidiegoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Estudante de Ciência da Computação na UNIVALI - Universidade do Vale do Itajaí**
 
-Here are some ideas to get you started:
+**Principais Projetos**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
++ Ainda nenhum
+
+**Principais Habilidades**
++ C# (◼️◼️◻️◻️◻️)
++ + Unity (◼️◻️◻️◻️◻️)
++ + ASP.NET (◻️◻️◻️◻️◻️)
++ C++ (◼️◼️◻️◻️◻️)
++ + Unreal Engine (◻️◻️◻️◻️◻️)
++ Java (◼️◻️◻️◻️◻️)
++ + Android (◻️◻️◻️◻️◻️)
++ Web
++ + HTML (◼️◻️◻️◻️◻️)
++ + CSS (◻️◻️◻️◻️◻️)
++ + JavaScript (◼️◼️◻️◻️◻️)
++ + Bootstrap (◻️◻️◻️◻️◻️)
