@@ -14,9 +14,9 @@
 + + Unreal Engine (◻️◻️◻️◻️◻️)
 + Java (◼️◻️◻️◻️◻️)
 + + Android (◻️◻️◻️◻️◻️)
-+ Python (◻️◻️◻️◻️◻️)
 + Web
 + + HTML (◼️◻️◻️◻️◻️)
 + + CSS (◻️◻️◻️◻️◻️)
 + + JavaScript (◼️◼️◻️◻️◻️)
 + + Bootstrap (◻️◻️◻️◻️◻️)
++ Python (◻️◻️◻️◻️◻️)
